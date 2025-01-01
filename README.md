@@ -1,6 +1,4 @@
-# h1 Heading remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # 
+# h1 Heading - jekyll-remote-theme 
 ## h2 Heading 
 ### h3 Heading 
 #### h4 Heading 
